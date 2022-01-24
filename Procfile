@@ -1,1 +1,1 @@
-discordbot: cargo run --release
+web: ./target/release/aei2-ethics-of-technology
